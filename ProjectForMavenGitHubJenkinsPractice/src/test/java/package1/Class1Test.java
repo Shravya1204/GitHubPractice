@@ -10,6 +10,8 @@ public class Class1Test {
 		
 		Reporter.log("........Hii.......",true);
 		System.out.println("*************Hiiii******************");
+		System.out.println("*************Hello******************");
+
 
 	}
 }
